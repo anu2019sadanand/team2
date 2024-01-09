@@ -7,5 +7,8 @@ public class PrClass {
 		System.out .println("hello world");
 		System.out.println("branch");
 	}
-
+	void display()
+	{
+		System.out.println("new branch");
+	}
 }
